@@ -6,7 +6,7 @@
 - Hover effects on links
 - Fully responsive
 
-🔗 **Live Demo:** [Click here](https://your-username.github.io/SCT_WD_1/)
+🔗 **Live Demo:** [Click here](https://krupaladatta.github.io/SCT_WD_1/)
 
 ---
 
